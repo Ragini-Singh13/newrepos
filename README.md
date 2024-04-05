@@ -1,4 +1,4 @@
 # newrepos
 this is my first git repository
 <br>
-author - ragini singh
+author - ragini (singh)
